@@ -1,0 +1,2 @@
+# BookFinder
+Developed Java Facelet application that finds information about the book with respect to the key word. Designed the user interface using XHTML. Implemented the business logic using Java and the database using XML format. The application takes the input from the user and then searches the database to check if the key word is matched and then returns the description of all the books that matches with the key word. If the keyword is not matched it returns no information.
